@@ -1,0 +1,36 @@
+pratical 11
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>p11_inline&internal_css.html</title>
+</head>
+<style>
+    div{
+        color:black;
+        background-color: rgb(164, 232, 119);
+        font-size:30px;
+        text-align: center;
+        margin-top: 40px;
+        margin-right: 250px;
+        margin-left: 250px;
+        border: 2px solid black;
+    }
+</style>
+<body style="color:aqua ">
+   
+    <h1 style="color:black;background-color:rgb(255, 11, 11);text-align: center;">GANESH PATIL</h1>
+    <h2  style="color:black;background-color: rgb(192, 255, 19);text-align: center;">contact me here</h2>
+    <div>
+        <a href="https://www.linkedin.com/in/ganesh-ahire-304318249">linkedin account</a>
+    </div><hr>
+    <div>
+        <a href="https://github.com/Ganeshpatil09">github account</a>
+    </div><hr>
+    <div>
+        <a href="mailto:ganeshahire992003@gmail.com">email account</a>
+    </div><hr>
+    
+</body>
+</html>

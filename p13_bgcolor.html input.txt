@@ -1,0 +1,16 @@
+pratical 13
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <title>p13_bgcolor.html</title>
+</head>
+<body style="background-color:blueviolet">
+    <h1 style="font-size: 100px; text-align: center">Welcome to SSBT COET</h1><hr><h3>
+        <p style="font-size: 40px;">This is my first practical of Web Design I<br>
+            We are the student of  FY BCA<br>
+            We are from the batch F3<br><hr>
+        </p></h3>
+    <h1 style="font-size: 60px">Thank You!!!!!<hr></h1>
+</body>
+</html>

@@ -1,0 +1,22 @@
+pratical 4
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>p4_html_marquee.html</title>
+</head>
+<body style="background-color:aquamarine">
+    <h1 style="font-size: 100px;color:red;text-align: center;">Let's Learn Maequee</h1><hr>
+    <h2 style="font-size: 50px;color:rgb(19, 19, 39) ">1) scrolling</h2><hr>
+    <marquee behavior="scrolling" direction="" style="color:purple;font-size: 30px">KING IS KING</marquee><hr>
+    <marquee behavior="scrolling" direction="down" style="color:purple;text-align: center;font-size: 30px">ALWAYS KING</marquee><hr>
+    <marquee behavior="scrolling" direction="up" style="color:purple;text-align: center;font-size: 30px">ROYAL</marquee><hr>
+    <marquee behavior="scrolling" direction="right" style="color:purple;font-size: 30px">BUILDER</marquee><HR></HR>
+    <h2 style="font-size: 50px;color:rgb(18, 18, 18) ">2) sliding</h2><hr>
+    <marquee behavior="slide" style="font-size:30px;color:blue">ROHIT IS BEST CRICKETER</marquee><hr>
+    <h2 style="font-size: 50px;color:rgb(7, 7, 16) ">alternative</h2><hr>
+    <marquee behavior="alternative" style="font-size:30px;color:red">GANESH PATIL (DADU______09)</marquee><hr>
+    
+</body>
+</html>

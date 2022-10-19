@@ -1,0 +1,72 @@
+pratical 5
+
+<!DOCTYPE html>
+<html>
+<head><title>p5_html_list.html</title>
+</head>
+<body style="color:red;background-color: black;">
+   <h1><center style="font-size: 100px">LET'S LEARN LIST</center></h1><hr>
+    <h1><center style="font-size: 60px">Ordered list</center></h1>
+    <ol type="a">
+        <li>html</li>
+        <li> c programming</li>
+        <li> java</li>
+        <li>c++</li>
+    </ol>
+    <ol type="A">
+        <li>html</li>
+        <li>c programming</li>
+        <li> java</li>
+        <li>c++</li>
+    </ol>
+    <ol type="1">
+        <li>html</li>
+        <li>c programming</li>
+        <li> java</li>
+        <li>c++</li>
+    </ol>
+    <ol type="i">
+        <li>html</li>
+        <li>c programming</li>
+        <li> java</li>
+        <li>c++</li>
+    </ol>
+    <ol type="I">
+        <li>html</li>
+        <li>c programming</li>
+        <li> java</li>
+        <li>c++</li>
+    </ol>
+    <hr>
+    <h1><center style="font-size: 60px">Unordered list</center></h1>
+    <ul type="circle">
+        <li>html</li>
+        <li> c programming</li>
+        <li> java</li>
+        <li>c++</li>
+    </ul>
+    <ul type="disc">
+        <li>html</li>
+        <li> c programming</li>
+        <li> java</li>
+        <li>c++</li>
+    </ul>
+    <ul type="square">
+        <li>html</li>
+        <li> c programming</li>
+        <li> java</li>
+        <li>c++</li>
+    </ul>
+    <ul type="none">
+        <li>html</li>
+        <li> c programming</li>
+        <li> java</li>
+        <li>c++</li>
+    </ul>
+<dl>
+    <dd>this is a discription list</dd>
+    <dd>1st item</dd>
+    <dd>2nd item</dd>
+</dl>
+</body>
+</html>
