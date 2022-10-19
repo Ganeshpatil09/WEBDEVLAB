@@ -1,0 +1,15 @@
+pratical 1
+
+<html>
+<head>
+<title>p1_html_basic.html. input</title>
+</head>
+<body>
+<h1 style="font-size: 100px; text-align: center">Welcome to SSBT COET</h1><h3>
+<p style="font-size: 40px;">This is my first practical of Web Design I<br>
+    We are the student of  FY BCA<br>
+    We are from the batch F2<br>
+    </p></h3>
+    <h1 style="font-size: 60px">Thank You!!!!!</h1>
+</body>
+</html>
